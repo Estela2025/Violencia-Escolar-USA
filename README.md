@@ -1,4 +1,4 @@
-# Análisis de la Violencia-Escolar en Estados Unidos.
+# Análisis de la Violencia Escolar en Estados Unidos.
 ---
 ## 📄 Resumen / Visión General
 
