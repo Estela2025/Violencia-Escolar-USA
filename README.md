@@ -10,7 +10,7 @@ Este proyecto de análisis de datos explora las tendencias históricas y la dist
 
 La elección de Estados Unidos como foco de este estudio no es casual. Responde a su contexto social particular, donde la **amplia disponibilidad legal de armas de fuego** para los ciudadanos es un factor diferenciador a nivel global en el debate sobre la seguridad pública y la violencia escolar. Este análisis busca poner de manifiesto las tendencias y la distribución de estos incidentes, sentando las bases para una reflexión informada sobre los desafíos de la seguridad escolar en un entorno tan particular.
 
-Es crucial entender que, en el contexto de este análisis, un **'incidente de violencia escolar'** se refiere a cualquier suceso violento o con armas de fuego ocurrido dentro del ámbito escolar (centros educativos, instalaciones, etc.). Esto incluye una amplia gama de casos como **accidentes, suicidios, robos y ataques**, en los que pueden estar involucrados estudiantes, docentes, personal escolar o personas externas al centro (como padres, tutores u otros individuos).
+Es crucial entender que, en el contexto de este análisis, un **'incidente de violencia escolar'** se refiere a cualquier suceso violento o aquel que involucre armas de fuego ocurrido dentro del ámbito escolar (centros educativos, instalaciones, etc.). Esto incluye una amplia gama de casos como **accidentes, suicidios, robos y ataques**, en los que pueden estar involucrados estudiantes, docentes, personal escolar o personas externas al centro (como padres, tutores u otros individuos).
 
 ---
 
